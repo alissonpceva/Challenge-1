@@ -46,7 +46,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* main image */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,7 +55,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* containers image location specified */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -103,6 +103,7 @@ p {
     max-width: 150px;
 }
 
+/* containers' styling */
 .search-engine-optimization, 
 .online-reputation-management,
 .social-media-marketing {
@@ -124,7 +125,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+ /* footer */
 .footer {
     padding: 30px;
     clear: both;
